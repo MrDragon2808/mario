@@ -1,0 +1,60 @@
+#naruto
+{
+    width: 100%;
+    text-align: left;
+    color: lime;
+    background-color: rgb(255, 48, 48);
+    font-size: 18px;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+#sasuke 
+{
+    float: right;
+    border: 3px solid lime;
+    background-color: red;
+    color: lime;
+}
+
+#kakashi 
+{
+    width: 100%;
+}
+
+#start
+{
+    font-size: 22px;
+    color: rgb(66, 255, 45);
+    background-color: blue;
+}
+
+h4
+{
+    margin: 0px;
+    line-height: 2;
+    background-color: blue;
+    color: lime;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video
+{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
